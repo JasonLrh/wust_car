@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.lst": "arm",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "*.ipp": "c",
+        "*.inc": "c",
+        "cerrno": "c",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "random": "cpp",
+        "complex": "c"
+    }
+}
